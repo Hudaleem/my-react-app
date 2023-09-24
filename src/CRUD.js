@@ -10,7 +10,6 @@ import Col from 'react-bootstrap/Col';
 const CRUD = () => {
 
     const [show, setShow] = useState(false);
-
     const handleClose = () => setShow(false);
     const handleShow = () => setShow(true);
 

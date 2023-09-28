@@ -60,7 +60,7 @@ const CRUD = () => {
     useEffect(() => {
         setData(empData);
     }, []);
-
+ 
 
     const handleEdit = (id) => {
         //alert(id);

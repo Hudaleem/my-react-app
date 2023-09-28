@@ -73,8 +73,7 @@ const CRUD = () => {
         }  
     } 
 
-    const handleUpdate = () => {
-
+    const handleUpdate = ()
     }
 
     return(
